@@ -1,0 +1,15 @@
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\bin\Debug\net7.0\Business.Layer.deps.json
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\bin\Debug\net7.0\Business.Layer.dll
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\bin\Debug\net7.0\Business.Layer.pdb
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\bin\Debug\net7.0\DataAccess.Layer.dll
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\bin\Debug\net7.0\DataAccess.Layer.pdb
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\Business.Layer.csproj.AssemblyReference.cache
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\Business.Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\Business.Layer.AssemblyInfoInputs.cache
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\Business.Layer.AssemblyInfo.cs
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\Business.Layer.csproj.CoreCompileInputs.cache
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\Business.Layer.csproj.CopyComplete
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\Business.Layer.dll
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\refint\Business.Layer.dll
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\Business.Layer.pdb
+C:\Users\mm\source\repos\JWT_TokenExample\Business.Layer\obj\Debug\net7.0\ref\Business.Layer.dll
