@@ -3960,11 +3960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\JWT_TokenExample\\JWT_TokenExample.csproj",
+      "projectUniqueName": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\JWT_TokenExample\\JWT_TokenExample.csproj",
       "projectName": "JWT_TokenExample",
-      "projectPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\JWT_TokenExample\\JWT_TokenExample.csproj",
+      "projectPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\JWT_TokenExample\\JWT_TokenExample.csproj",
       "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\JWT_TokenExample\\obj\\",
+      "outputPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\JWT_TokenExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3982,11 +3982,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj": {
-              "projectPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj"
+            "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj": {
+              "projectPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj"
             },
-            "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj": {
-              "projectPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj"
+            "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj": {
+              "projectPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj"
             }
           }
         }

@@ -10,7 +10,7 @@ namespace JWT_TokenExample.Security
         public static List<Claim> tokenValidation(string token,IConfiguration configuration)
         {
 
-            SymmetricSecurityKey securityKey = new(Encoding.UTF8.GetBytes(configuration["Jwt:Key"]));
+            SymmetricSecurityKey securityKey = new(Encoding.UTF8.GetBytes(configuration["Jwt:Key"])); //keyimizi burda da tanımlamamız gerekir. 
 
             try
             {

@@ -3467,11 +3467,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj",
+      "projectUniqueName": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj",
       "projectName": "DataAccess.Layer",
-      "projectPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj",
+      "projectPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj",
       "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\obj\\",
+      "outputPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",

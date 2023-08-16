@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj": {}
+    "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj": {
+    "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj",
+        "projectUniqueName": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj",
         "projectName": "Business.Layer",
-        "projectPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj",
+        "projectPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\Business.Layer\\Business.Layer.csproj",
         "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\Business.Layer\\obj\\",
+        "outputPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\Business.Layer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj": {
-                "projectPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj"
+              "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj": {
+                "projectPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj"
               }
             }
           }
@@ -63,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj": {
+    "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj",
+        "projectUniqueName": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj",
         "projectName": "DataAccess.Layer",
-        "projectPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj",
+        "projectPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\DataAccess.Layer.csproj",
         "packagesPath": "C:\\Users\\mm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mm\\source\\repos\\JWT_TokenExample\\DataAccess.Layer\\obj\\",
+        "outputPath": "C:\\Users\\mm\\Documents\\GitHub\\JWT_TokenProjectExample\\JWT_TokenExample\\DataAccess.Layer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mm\\AppData\\Roaming\\NuGet\\NuGet.Config",
